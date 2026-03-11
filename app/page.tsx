@@ -78,7 +78,7 @@ export default function Home() {
                     </div>
         */}
 
-                    <div className="flex justify-center self-start">
+                    <div className="py-10 flex justify-center self-start">
                         <Image
                             src="/senailogo.png"
                             alt="SENAILOGO"
