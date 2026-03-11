@@ -80,7 +80,7 @@ export default function Home() {
                         <Image
                             src="/senailogo.png"
                             alt="SENAILOGO"
-                            width={250}
+                            width={500}
                             height={50}
                         />
                     </div>
@@ -172,6 +172,10 @@ export default function Home() {
                         Limpar valores
                     </button>
                 </div>
+                <br></br>
+                <br></br>
+                <p> COPYRIGHT BY RIZZI PQ NN SOU BESTA TBMM </p>
+                <p>SERIÃO, VOU COBRAR</p>
             </main>
         </div>
     );
