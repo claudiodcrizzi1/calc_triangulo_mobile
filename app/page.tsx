@@ -66,6 +66,7 @@ export default function Home() {
     return (
         <div className="min-h-screen bg-zinc-950 text-white">
             <header>
+                {/*
                 <div className="grid grid-cols-3 items-center py-10 px-10">
                     <div className="flex justify-start">
                         <Image
@@ -75,6 +76,7 @@ export default function Home() {
                             height={50}
                         />
                     </div>
+        */}
 
                     <div className="flex justify-center self-start">
                         <Image
@@ -84,7 +86,7 @@ export default function Home() {
                             height={50}
                         />
                     </div>
-
+                {/*
                     <div className="flex justify-end">
                         <Image
                             src="/MSP.png"
@@ -94,9 +96,12 @@ export default function Home() {
                         />
                     </div>
                 </div>
-
+                */}
             </header>
             <main className="items-center max-w-7xl mx-auto px-10">
+                <br></br>
+                <br></br>
+                <br></br>
                 <h1 className="text-4xl font-semibold dark:text-zinc-50 mb-10">
                     CALCULADORA DE TRIÂNGULO DE POTÊNCIA 1T1ELE
                 </h1>
@@ -172,10 +177,12 @@ export default function Home() {
                         Limpar valores
                     </button>
                 </div>
+                {/*
                 <br></br>
                 <br></br>
                 <p> COPYRIGHT BY RIZZI PQ NN SOU BESTA TBMM </p>
                 <p>SERIÃO, VOU COBRAR</p>
+                */}
             </main>
         </div>
     );
