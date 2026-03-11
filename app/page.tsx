@@ -96,11 +96,10 @@ export default function Home() {
                 </div>
 
             </header>
-            <main className="grid grid-cols-3 items-center max-w-7xl mx-auto px-10">
-                <h1 className="col-span-3 text-4xl font-semibold dark:text-zinc-50 mb-10">
+            <main className="items-center max-w-7xl mx-auto px-10">
+                <h1 className="text-4xl font-semibold dark:text-zinc-50 mb-10">
                     CALCULADORA DE TRIÂNGULO DE POTÊNCIA 1T1ELE
                 </h1>
-                <div className="hidden md:block"></div>
                 <div className="flex flex-col gap-4 max-w-md">
 
                     <input
